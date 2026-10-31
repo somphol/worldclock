@@ -2,6 +2,8 @@
 
 A real-time world clock dashboard built with plain HTML, CSS, and JavaScript — all in a single `index.html` file. No build step, no dependencies, no tracking.
 
+**Live demo:** <https://somphol.github.io/worldclock/>
+
 ![World Clock dashboard preview](preview.png)
 
 ## Features
