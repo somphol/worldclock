@@ -1,2 +1,7 @@
 .DS_Store
 *.log
+
+Thumbs.db
+_site/
+node_modules/
+.env
