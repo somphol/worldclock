@@ -1,10 +1,21 @@
+<div align="center">
+
+<img src="docs/social-card.png" alt="World Clock — Live Time Zones, Beautifully" width="100%" />
+
 # World Clock
 
-A real-time world clock dashboard built with plain HTML, CSS, and JavaScript — all in a single `index.html` file. No build step, no dependencies, no tracking.
+**Live Time Zones, Beautifully**
 
-**Live demo:** <https://somphol.github.io/worldclock/>
+A real-time dashboard with analog and digital clocks, time-zone search, and light/dark themes — in one HTML file.
 
-![World Clock dashboard preview](preview.png)
+[![Live demo](https://img.shields.io/badge/live_demo-online-2dd4bf?style=flat-square)](https://somphol.github.io/worldclock/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-2dd4bf?style=flat-square)](LICENSE)
+
+**[Try it live →](https://somphol.github.io/worldclock/)**
+
+</div>
+
+---
 
 ## Features
 
